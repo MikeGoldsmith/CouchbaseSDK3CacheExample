@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseSDK3CacheExample", "CouchbaseSDK3CacheExample\CouchbaseSDK3CacheExample.csproj", "{D12EB570-8828-4D41-8570-A90F1367ECA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D12EB570-8828-4D41-8570-A90F1367ECA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12EB570-8828-4D41-8570-A90F1367ECA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12EB570-8828-4D41-8570-A90F1367ECA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12EB570-8828-4D41-8570-A90F1367ECA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BED5648-76DE-4639-9651-3E0F4D265B03}
+	EndGlobalSection
+EndGlobal
